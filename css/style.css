@@ -1756,7 +1756,7 @@ button.btn.btn-lg {
   min-width: 100px;
 }
 .message-name h3 {
-  font-size: 13px;
+  font-size: 16px;
   margin-bottom: 0px;
 }
 .message-name p {
@@ -1767,7 +1767,7 @@ button.btn.btn-lg {
 }
 .message-body {
   padding-left: 10px;
-  font-size: 13px;
+  font-size: 16px;
   color: rgba(0,0,0,0.7);
 }
 .message-body {
