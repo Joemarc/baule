@@ -1,0 +1,93 @@
+Searching 11 files for "ab-gd-text"
+
+/Users/joemarc/Desktop/Bureau/baule/index.html:
+  131  						<div class="ab-sub-gd">
+  132  							<span class="fas fa-home fa-3x glyphicon  ab-gd-img" aria-hidden="true"> </span>
+  133: 							<div class="ab-gd-text">
+  134  								<h6 style="line-height: 4;">Appartement 40m2</h6>
+  135  								
+  ...
+  139  						<div class="ab-sub-gd">
+  140  							<span class="glyphicon fas fa-users fa-3x ab-gd-img" aria-hidden="true"> </span>
+  141: 							<div class="ab-gd-text">
+  142  								<h6 style="line-height: 4;">4 couchages</h6>
+  143  							</div>
+  ...
+  146  						<div class="ab-sub-gd">
+  147  							<span class="fas fa-bed fa-3x ab-gd-img" aria-hidden="true"> </span>
+  148: 							<div class="ab-gd-text">
+  149  								<h6 style="line-height: 4;">2 chambres</h6>
+  150  							</div>
+  ...
+  153  						<div class="ab-sub-gd">
+  154  							<span class="fas fa-shower fa-3x ab-gd-img" aria-hidden="true"> </span>
+  155: 							<div class="ab-gd-text">
+  156  								<h6 style="line-height: 4;">Salle de douche</h6>
+  157  							</div>
+  ...
+  160  						<div class="ab-sub-gd">
+  161  							<span class="fas fa-wifi fa-3x ab-gd-img" aria-hidden="true"> </span>
+  162: 							<div class="ab-gd-text">
+  163  								<h6 style="line-height: 4;">Wifi Haut-débit</h6>
+  164  							</div>
+  ...
+  167  						<div class="ab-sub-gd">
+  168  							<span class="fas fa-moon fa-3x ab-gd-img" aria-hidden="true"> </span>
+  169: 							<div class="ab-gd-text">
+  170  								<h6 style="line-height: 4;">Durée minimum de 2 nuits</h6>
+  171  							</div>
+  ...
+  182  							<div class="ab-sub-gd col-xs-6">
+  183  								<span class="fas fa-home fa-3x glyphicon  ab-gd-img" aria-hidden="true"> </span>
+  184: 								<div class="ab-gd-text text-center ">
+  185  									<h6 >Appartement 40m2</h6>
+  186  									
+  ...
+  190  							<div class="ab-sub-gd col-xs-6">
+  191  								<span class="fas fa-shower fa-3x ab-gd-img" aria-hidden="true"> </span>
+  192: 								<div class="ab-gd-text">
+  193  									<h6 >Salle de douche</h6>
+  194  								</div>
+  ...
+  199  							<div class="ab-sub-gd col-xs-6">
+  200  								<span class="glyphicon fas fa-users fa-3x ab-gd-img" aria-hidden="true"> </span>
+  201: 								<div class="ab-gd-text">
+  202  									<h6 style="margin-top: -24px;">4 couchages</h6>
+  203  								</div>
+  ...
+  206  							<div class="ab-sub-gd col-xs-6">
+  207  								<span class="fas fa-bed fa-3x ab-gd-img" aria-hidden="true"> </span>
+  208: 								<div class="ab-gd-text">
+  209  									<h6 style="margin-top: -22px; ">2 chambres</h6>
+  210  								</div>
+  ...
+  215  						<div class="ab-sub-gd">
+  216  							<span class="fas fa-wifi fa-3x ab-gd-img" aria-hidden="true"> </span>
+  217: 							<div class="ab-gd-text">
+  218  								<h6 style="margin-top: -20px; ">Wifi Haut-débit</h6>
+  219  							</div>
+  ...
+  222  						<div class="ab-sub-gd">
+  223  							<span class="fas fa-moon fa-3x ab-gd-img" aria-hidden="true"> </span>
+  224: 							<div class="ab-gd-text">
+  225  								<h6 style="margin-top: 30px; margin-left: 5px;">Durée minimum de 2 nuits</h6>
+  226  							</div>
+
+/Users/joemarc/Desktop/Bureau/baule/css/style.css:
+  425    width: 15%;
+  426  }
+  427: .ab-gd-text {
+  428    float: right;
+  429    width: 83%;
+  430  }
+  431: .ab-gd-text h6 {
+  432    font-size: 1.1em;
+  433    color:#2A2828;
+  ...
+ 1271    font-size: 2.6em;
+ 1272  }
+ 1273: .ab-gd-text h6 {
+ 1274    font-size: 1em;
+ 1275    margin-bottom: 0.2em;
+
+15 matches across 2 files

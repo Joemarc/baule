@@ -434,6 +434,16 @@ span.ab-gd-img {
   margin-bottom: 0.4em;
   font-family: 'MontserratAlternates-Regular';
 }
+
+.ab-gd-text-min {
+  text-align: center;
+}
+.ab-gd-text-min h6 {
+  font-size: 1.1em;
+  color:#2A2828;
+  margin-bottom: 0.4em;
+  font-family: 'MontserratAlternates-Regular';
+}
 .ab-sub-gd {
   margin: 0em 0em 1.2em 0em;
 }
