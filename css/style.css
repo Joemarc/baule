@@ -688,7 +688,7 @@ span.glyphicon.glyphicon-cutlery{
 	background:url(../images/box.png) center no-repeat rgba(248, 86, 93, 0.44);
 	cursor: pointer;
 	height: 300px;
-     width: 360px;
+     width: 375px;
 	display: block;
 	position: absolute;
 	z-index: -9999px;
@@ -1381,8 +1381,8 @@ span.ab-line {
   width: 50%;
 }
 .project-eff:hover span.rollover1 {
-  height: 149px;
-  width: 206px;
+  height: 360px;
+  width: 375px;
 }
 .contact {
   padding: 1.5em 0em 2em 0em;
